@@ -4,7 +4,7 @@ const minimo = 0
 let numero = Math.floor(Math.random() * (maximo - minimo + 1) + minimo)
 
 for(let i = 0; i < 3; i++) {
-    var tentativa = prompt("Tente acertar o numero de 1 a 10:")
+    var tentativa = prompt("Tente acertar o numero de 0 a 10:")
     if( tentativa == numero ) {
         alert("Parabéns, você acertou!")
         break
