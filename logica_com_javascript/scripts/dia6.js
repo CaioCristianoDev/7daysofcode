@@ -68,7 +68,7 @@ while (true) {
         alert(`A categoria ${categoria} está vazia!`);
       } else {
         let itemRemover = prompt(
-          `Itens na categoria ${categoria}: ${listaCategoria.join(", ")}\\nQual item você deseja remover?`
+          `Itens na categoria ${categoria}: ${listaCategoria.join(", ")}\nQual item você deseja remover?`
         );
         let index = listaCategoria.indexOf(itemRemover);
 
