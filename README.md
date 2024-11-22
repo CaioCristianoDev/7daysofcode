@@ -6,4 +6,5 @@
 - Anne Grace
 - Caio Cristiano
 - Davi Moraes
+- Vanessa Bianca
 - Luiz Lemos
