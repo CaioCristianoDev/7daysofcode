@@ -1,4 +1,4 @@
-# javascript_exercicios
+# 7 days of code
 
 ## Equipe
 - Ana Malcher
