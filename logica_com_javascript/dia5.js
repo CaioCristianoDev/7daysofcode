@@ -42,10 +42,10 @@ while (true) {
 
 // Exibir a lista de compras agrupada por categorias
 alert(
-`Lista de compras:\\n` +
-`Frutas: ${frutas.join(", ") || "Nenhum item"}\\n` +
-`Laticínios: ${laticinios.join(", ") || "Nenhum item"}\\n` +
-`Congelados: ${congelados.join(", ") || "Nenhum item"}\\n` +
-`Doces: ${doces.join(", ") || "Nenhum item"}\\n` +
+`Lista de compras:\n\n` +
+`Frutas: ${frutas.join(", ") || "Nenhum item"}\n` +
+`Laticínios: ${laticinios.join(", ") || "Nenhum item"}\n` +
+`Congelados: ${congelados.join(", ") || "Nenhum item"}\n` +
+`Doces: ${doces.join(", ") || "Nenhum item"}\n` +
 `Outros: ${outros.join(", ") || "Nenhum item"}`
 );
